@@ -1,4 +1,13 @@
+Problem
+Solution
+Idea
+Detail Doc
 
-#ASSALAMUALAIKUM
-#AMIN?
-#YA RABAL ALAMIN
+# ML
+To view detail docu
+
+# CC
+
+
+# MD
+
