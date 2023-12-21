@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<h1 align="center">
+  <br>
+  <a href="#"><img src="https://raw.githubusercontent.com/minatku/.github/72f5e47ebef5eed3e8b62046d3078bf0b042623a/profile/img/minatku_logo.svg" alt="Markdownify" width="200"></a>
+  <br>
+  MinatKu
+  <br>
+  “Temukan Minat Jadilah Hebat!”
+</h1>
