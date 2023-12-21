@@ -24,8 +24,6 @@ Our team initiated this project in response to a pressing issue revealed by the 
   Machine Learning Implementation
 </h1>
 
-# CH2-PS229 MinatKu
-
 # Table of Contents
 * [General Info](#general-info)
 * [Roadmap](#roadmap)
@@ -123,11 +121,21 @@ The model is trained on the provided dataset with the following architecture:
 - Output layer: Dense layer with softmax activation.
 - The model is compiled with categorical crossentropy loss and Adam optimizer.
 
-### Cloud Computing Implementation
+<h1 align="center">
+  <br>
+  Cloud Computing Implementation
+</h1>
 
-### Mobile Development Implementation
+<h1 align="center">
+  <br>
+  Mobile Development Implementation
+</h1>
 
-Bangkit 2023 Batch 2 Capstone Team CH2-PS229
+<h1 align="center">
+  <br>
+  Bangkit 2023 Batch 2 Capstone Team CH2-PS229
+</h1>
+
 - [Fadhil Hadrian Azzami](https://www.linkedin.com/in/fhazzami/) - M200BSY1584 - Universitas Diponegoro
 - [Nurul Andini](https://www.linkedin.com/in/nurul-andini/) - M277BSX1256 -  Universitas Negeri Jakarta
 - [Chinara Siwi Nugrahani](https://www.linkedin.com/in/chinarasiwinugrahani/) - M200BSX0115 - Universitas Diponegoro
