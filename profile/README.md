@@ -144,7 +144,7 @@ This is the Cloud Computing part of CH2-PS229 capstone project called MinatKu. T
 
 # Roadmap
 
-# Python Libraries
+# Libraries
 We built the model in Google Colab using the following libraries
 * [Flask](https://flask.palletsprojects.com/)
 * [SQLAlchemy](https://www.sqlalchemy.org/)
