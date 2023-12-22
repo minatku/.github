@@ -209,7 +209,7 @@ Hello guys!! this is mobile app from application Minatku
 # General Info
 This is the Mobile Development part of CH2-PS229 capstone project called MinatKu. This application will help students to achieve improvement in the alignment between their majors and interests by creating an accessible online career guidance platform and personalized major recommendations from assessments test.
 
-# Python Libraries
+# Libraries
 We built the app in Android Studio with the following libraries
 * [Kotlin](https://kotlinlang.org/)
 * [Glide](https://github.com/bumptech/glide)
