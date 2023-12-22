@@ -240,10 +240,14 @@ For the documentation you can visit
   Bangkit 2023 Batch 2 Capstone Team CH2-PS229
 </h1>
 
-- [Fadhil Hadrian Azzami](https://www.linkedin.com/in/fhazzami/) - M200BSY1584 - Universitas Diponegoro
-- [Nurul Andini](https://www.linkedin.com/in/nurul-andini/) - M277BSX1256 -  Universitas Negeri Jakarta
-- [Chinara Siwi Nugrahani](https://www.linkedin.com/in/chinarasiwinugrahani/) - M200BSX0115 - Universitas Diponegoro
-- [Muhammad Rizki](https://www.linkedin.com/in/rizki-muhammad-32b4b4203/) - C299BSY3985 - Universitas Pendidikan Indonesia
-- [Mohammad Labib Husain](https://www.linkedin.com/in/mohammad-labib-husain-065452281/) - C299BSY4160 - Universitas Pendidikan Indonesia
-- [Novallino Hamid Kiapmajaya](https://www.linkedin.com/in/novallinohamidk/) - A277BSY2801 - Universitas Negeri Jakarta
-- [Brian Yudhistira](https://www.linkedin.com/in/brian-yudhistira-95a62b221/) - A258BSY2836 -  Universitas Muhammadiyah Malang
+
+| Name                          | ID             | University                    | Learning Path            | LinkedIn Profile                                      |
+| ----------------------------- | -------------- | ----------------------------- | ------------------------ | ------------------------------------------------------- |
+| Fadhil Hadrian Azzami         | M200BSY1584    | Universitas Diponegoro        | Machine Learning         | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fhazzami/)        |
+| Nurul Andini                  | M277BSX1256    | Universitas Negeri Jakarta     | Machine Learning         | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nurul-andini/)    |
+| Chinara Siwi Nugrahani        | M200BSX0115    | Universitas Diponegoro        | Machine Learning         | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chinarasiwinugrahani/) |
+| Muhammad Rizki                | C299BSY3985    | Universitas Pendidikan Indonesia | Cloud Computing       | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/rizki-muhammad-32b4b4203/) |
+| Mohammad Labib Husain          | C299BSY4160    | Universitas Pendidikan Indonesia | Cloud Computing       | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mohammad-labib-husain-065452281/) |
+| Novallino Hamid Kiapmajaya     | A277BSY2801    | Universitas Negeri Jakarta     | Mobile Development      | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/novallinohamidk/) |
+| Brian Yudhistira               | A258BSY2836    | Universitas Muhammadiyah Malang | Mobile Development    | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brian-yudhistira-95a62b221/) |
+
