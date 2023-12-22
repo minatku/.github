@@ -222,6 +222,26 @@ We built the app in Android Studio with the following libraries
 <img src="https://raw.githubusercontent.com/minatku/.github/main/profile/img/1.png"></img>
 <img src="https://raw.githubusercontent.com/minatku/.github/main/profile/img/2.png"></img>
 
+## Installation
+
+### 1. Clone this Project to your Computer
+```bash
+git clone https://github.com/minatku/minatku-Android.git
+```
+
+or you can use Android Studio 
+
+File > New > Project from Version Control ...
+
+### 2. Open the Project in your Android Studio
+Open Android Studio and select open an existing project.
+
+### 3. Run Project in Android Studio
+Wait for Gradle Build to Finish and finally press the `Run > Run ‘app’`. Now the app has been installed in your phone / emulator. Make sure that you have configured your android device or emulator 
+
+
+## Thank You :)
+
 # Contact
 For further information, kindly contact to :
 - novallinohmd@gmail.com (Novallino Hamid Kiapmajaya)
