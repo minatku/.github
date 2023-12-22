@@ -148,8 +148,8 @@ Hello guys!! this is backend from application Minatku
 * [General Info](#general-info)
 * [Roadmap](#roadmap)
 * [Python Libraries](#python-libraries)
-* Services Used in GCP(#services)
-* Cloud Architecture(architecture)
+* [Services Used in GCP](#services)
+* [Cloud Architecture](architecture)
 * [Contact](#contact)
 * [Documentation](#documentation)
 
